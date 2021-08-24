@@ -1,4 +1,5 @@
 # Smart-Lottery
+Smart Contract to play and win the lottery.
 Let's win the lottery. 💰🤑
 # Ethereum:
 Ethereum is a decentralized, open-source blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform. After Bitcoin, it is the largest cryptocurrency by market capitalization. 
